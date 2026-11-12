@@ -2,7 +2,7 @@
 
   <img src="assets/ic_launcher-playstore.png" width="120" alt="NomaTune Logo"/>
 
-  # NomaTune
+  # Nomatune lite
 
   ### The Material 3 Expressive Music Player
 
