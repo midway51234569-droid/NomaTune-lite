@@ -26,11 +26,11 @@ val discordApplicationIdLong = discordApplicationId.toLongOrNull() ?: 1165706613
 val discordRedirectScheme = "discord-$discordApplicationId"
 
 android {
-    namespace = "com.shahdullah.nomatune"
+    namespace = "com.masud.banglatune"
     compileSdk = 37
 
     defaultConfig {
-    applicationId = "com.shahdullah.nomatune"
+    applicationId = "com.masud.banglatune"
         minSdk = 26
         targetSdk = 37
         versionCode = 16
