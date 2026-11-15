@@ -95,7 +95,7 @@
 
   ### Requirements
   - Android Studio Ladybug or newer
-  - JDK 21
+  - JDK 21 j
   - Android SDK 37
 
   ### Steps
